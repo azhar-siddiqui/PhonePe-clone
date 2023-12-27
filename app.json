@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "phone-pe-clone",
+    "slug": "phone-pe-clone",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
